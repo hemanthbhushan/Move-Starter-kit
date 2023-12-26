@@ -11,6 +11,7 @@
 
 3. **Gas Optimization on Move Aptos:**
    - [Research Paper](https://www.eecg.utoronto.ca/~veneris/brains23.pdf)
+   - [Source Code](https://github.com/Veneris-Group/Move-Gas-Optimization-Patterns/tree/main/source)
 
 # Additional Reading
 
