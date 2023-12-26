@@ -31,5 +31,5 @@
 # Video Resources
 
 8. **YouTube Videos:**
-   - [Link 1](https://youtu.be/YaKmh8G4KVU?feature=shared)
-   - [Link 2](https://youtu.be/He3erI1ijpU?feature=shared)
+   - [MOVE APTOS 01: MOVE and APTOS Introduction. MOVE contract code explanation](https://youtu.be/YaKmh8G4KVU?feature=shared)
+   - [MOVE contract deployment and calling function from the deployed contract](https://youtu.be/He3erI1ijpU?feature=shared)
