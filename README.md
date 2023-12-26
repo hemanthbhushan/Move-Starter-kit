@@ -13,20 +13,23 @@
    - [Research Paper](https://www.eecg.utoronto.ca/~veneris/brains23.pdf)
    - [Source Code](https://github.com/Veneris-Group/Move-Gas-Optimization-Patterns/tree/main/source)
 
+4. **Aptos Move VM YouTube Video:**
+   - [Aptos Move VM](https://www.youtube.com/watch?v=1DGj0SQa8zQ&t=39s)
+
 # Additional Reading
 
-4. **Medium Articles:**
+5. **Medium Articles:**
    - [Replay Aptos Tutorial Episode 1: Create Things](https://medium.com/@magnum6/replay-aptos-tutorial-episode-1-create-things-90920fcdf409)
    - [Continuation of Aptos Tutorial](https://medium.com/code-community-command/were-picking-up-where-we-left-off-at-the-last-episode-so-if-this-is-your-first-time-here-check-394ddb8950f0)
 
-5. **Move Whitepaper:**
+6. **Move Whitepaper:**
    - [Whitepaper Deep Dive into Move - Facebook Libra Blockchain's New Programming Language](https://medium.com/coinmonks/whitepaper-deep-dive-move-facebook-libra-blockchains-new-programming-language-7dbd5b242c2b)
 
-6. **Move VM Documentation:**
+7. **Move VM Documentation:**
    - [Move VM Documentation](https://docs.dfinance.co/move_vm)
 
 # Video Resources
 
-7. **YouTube Videos:**
+8. **YouTube Videos:**
    - [Link 1](https://youtu.be/YaKmh8G4KVU?feature=shared)
    - [Link 2](https://youtu.be/He3erI1ijpU?feature=shared)
