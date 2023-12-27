@@ -6,7 +6,7 @@
 
 # Move Language
 
-2. [**Move Lang Book**](https://move-book.com/resources/resource-by-example/destroy-resource.html):
+2. [**Move Lang Book**]([https://move-book.com/resources/resource-by-example/destroy-resource.html](https://move-book.com/index.html)):
    - In-depth guide for Move language with examples.
 
 3. **Gas Optimization on Move Aptos:**
