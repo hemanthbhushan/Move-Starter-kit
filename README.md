@@ -36,3 +36,5 @@
 8. **YouTube Videos:**
    - [MOVE APTOS 01: MOVE and APTOS Introduction. MOVE contract code explanation](https://youtu.be/YaKmh8G4KVU?feature=shared)
    - [MOVE contract deployment and calling function from the deployed contract](https://youtu.be/He3erI1ijpU?feature=shared)
+9. **APTOS REFERENCES:**
+   - [move-stdlib](https://aptos.dev/reference/move/?branch=mainnet&branch=mainnet&page=aptos-framework/doc/guid.md)
