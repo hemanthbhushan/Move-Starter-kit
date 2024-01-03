@@ -23,6 +23,7 @@
    - [Continuation of Aptos Tutorial](https://medium.com/code-community-command/were-picking-up-where-we-left-off-at-the-last-episode-so-if-this-is-your-first-time-here-check-394ddb8950f0)
    - [Aptos Tutorial Episode 3: Deploy Things (and, boy, did those things just get easier)](https://medium.com/code-community-command/aptos-tutorial-episode-3-deploy-things-94eb973a7a51)
    - [Aptos Key Rotation | Learning Move 0x02](https://noncegeek.medium.com/aptos-key-rotation-learning-move-0x02-809053f29aff)
+   - [Accounts in Aptos](https://medium.com/@martian-wallet/accounts-in-aptos-1ecc3f0b1213)
 
 6. **Move Whitepaper:**
    - [Whitepaper Deep Dive into Move - Facebook Libra Blockchain's New Programming Language](https://medium.com/coinmonks/whitepaper-deep-dive-move-facebook-libra-blockchains-new-programming-language-7dbd5b242c2b)
